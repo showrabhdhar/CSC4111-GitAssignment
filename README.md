@@ -1,3 +1,3 @@
-# GitHub and git
+# GitHub and git conflict
 # CSC4111-GitAssignment
-Showrabh Dhar ga5982.
+Showrabh Dhar ga5982
